@@ -7,3 +7,5 @@
 - https://gist.github.com/Buthrakaur/376e0c05729ac6969e93 (added by peterorneholm)
 - https://github.com/hallatore/Netling (added by kimmen)
 - https://platform.deloitte.com.au/articles/list-of-access-keys-from-output-values-after-arm-template-deployment (added by peter.carlsson)
+- Rita med Maja https://www.instagram.com/ritamedmaja/ (added by viktor)
+
