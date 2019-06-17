@@ -14,6 +14,10 @@
 - https://github.com/lorin/resilience-engineering/blob/master/intro.md (added by kimmen)
 - https://platform.deloitte.com.au/articles/list-of-access-keys-from-output-values-after-arm-template-deployment (added by peter.carlsson)
 
+## Guides / Tutorials
+
+- CSS layout guides https://every-layout.dev/ (added by fredriklundin)
+
 ## Graphics
 
 - Rita med Maja https://www.instagram.com/ritamedmaja/ (added by viktor)
