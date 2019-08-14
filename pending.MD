@@ -1,2 +1,3 @@
 - http://swedish.identityinfo.net/ (added by viktor)
 - https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/surrounding-things-with-vim-surround/ (added by viktor)
+- https://learnui.design/blog/4-rules-intuitive-ux.html (added by kimmen)
