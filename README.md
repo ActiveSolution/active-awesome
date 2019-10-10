@@ -7,16 +7,20 @@
 - https://typora.io/ (added by conny.sjogren)
 - https://github.com/hallatore/Netling (added by kimmen)
 - Drawing material https://www.neuland.com/ (added by viktor)
+- http://swedish.identityinfo.net/ (added by viktor)
 
 ## Interesting Articles
 
 - https://eu1.mindhub.com/microsoft-certify-with-confidence-mcp-certification-exam/p/MSFT-Cert-w-Confidence (added by kimmen)
 - https://github.com/lorin/resilience-engineering/blob/master/intro.md (added by kimmen)
 - https://platform.deloitte.com.au/articles/list-of-access-keys-from-output-values-after-arm-template-deployment (added by peter.carlsson)
+- https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents (added by viktor)
+- https://secondboyet.com/Articles/LockfreeStack.html (added by stefan)
 
 ## Guides / Tutorials
 
 - CSS layout guides https://every-layout.dev/ (added by fredriklundin)
+- https://learnui.design/blog/4-rules-intuitive-ux.html (added by kimmen)
 
 ## Graphics
 
