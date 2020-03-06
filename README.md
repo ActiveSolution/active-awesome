@@ -9,6 +9,10 @@
 - Drawing material https://www.neuland.com/ (added by viktor)
 - http://swedish.identityinfo.net/ (added by viktor)
 
+## Git guides
+
+- https://mirrors.edge.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt (added by tobylo)
+
 ## Interesting Articles
 
 - https://eu1.mindhub.com/microsoft-certify-with-confidence-mcp-certification-exam/p/MSFT-Cert-w-Confidence (added by kimmen)
