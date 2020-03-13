@@ -26,6 +26,10 @@
 - CSS layout guides https://every-layout.dev/ (added by fredriklundin)
 - https://learnui.design/blog/4-rules-intuitive-ux.html (added by kimmen)
 
+### Remote work
+
+- https://basecamp.com/guides/how-we-communicate (added by kimmen)
+
 ## Graphics
 
 - Rita med Maja https://www.instagram.com/ritamedmaja/ (added by viktor)

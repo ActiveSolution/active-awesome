@@ -1,1 +1,0 @@
-- https://basecamp.com/guides/how-we-communicate (added by viktor)
