@@ -1,0 +1,1 @@
+- Mark files with linguist-generated attribute to keep them from showing up in github diffs https://docs.github.com/en/github/administering-a-repository/customizing-how-changed-files-appear-on-github (added by viktor)
